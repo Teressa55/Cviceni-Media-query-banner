@@ -82,3 +82,8 @@ h2 {
 
 /* ------------- pod čáru přijdou tvé styly ------------- */
 
+@media screen and (max-width:500px) {
+	.banner {
+		display:none;
+	}
+}
