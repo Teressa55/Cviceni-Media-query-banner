@@ -82,7 +82,7 @@ h2 {
 
 /* ------------- pod čáru přijdou tvé styly ------------- */
 
-@media screen and (max-width:500px) {
+@media screen and (max-width:499px) {
 	.banner {
 		display:none; /*odstrani prvek*/
 		/* visibility:hidden..... stale tam je 
